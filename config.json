@@ -8,7 +8,8 @@
     "eu-west-sbg": "Strasbourg, France",
     "eu-west-lim": "Limburg, Germany",
     "eu-south-mil": "Milan, Italy",
-    "eu-central-waw": "Warsaw, Poland"
+    "eu-central-waw": "Warsaw, Poland",
+    "ca-east-bhs": "TEST Canada, a retirer apres le test"
   },
   "alsoWatchNonEu": {
     "eu-west-eri": "Erith, United Kingdom (NOT in the EU - adequacy decision only)"
