@@ -37,6 +37,7 @@ jobs:
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
           NTFY_EMAIL: ${{ secrets.NTFY_EMAIL }}
+          NTFY_SERVER: ${{ secrets.NTFY_SERVER }}
         run: ./check.ps1
 
       - name: Persist state if it changed
